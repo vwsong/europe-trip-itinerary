@@ -1,4 +1,4 @@
-# Europe Trip Itinerary
+# Europe Flights
 *April 11 - 21, 2025*
 
 ---
