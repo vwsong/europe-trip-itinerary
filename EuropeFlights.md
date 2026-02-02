@@ -10,23 +10,46 @@
 
 ---
 
-## Itinerary
+## Flight Itinerary
 
 **Flight 1: SEA → London (Apr 11)**
-11:16 AM SEA → 5:46 PM ORD (AA 2775) → 9:05 AM+1 LHR (BA 298)
-13h 49m total
+- 11:16 AM - Depart SEA
+- 5:46 PM - Arrive ORD (1h 19m layover)
+- 7:05 PM - Depart ORD (AA 2775)
+- 9:05 AM+1 - Arrive LHR (BA 298)
+- Total: 13h 49m
 
 **Flight 2: London → Marrakesh (Apr 12)**
-3:35 PM STN → 7:15 PM RAK (Ryanair RK 7870)
-3h 40m
+- 3:35 PM - Depart STN (London Stansted)
+- 7:15 PM - Arrive RAK (Ryanair RK 7870)
+- Total: 3h 40m
 
 **Flight 3: Marrakesh → Barcelona (Apr 17)**
-1:00 PM RAK → 4:00 PM MAD (IB1852) → 7:15 PM BCN (IB0421)
-5h 15m total
+- 1:00 PM - Depart RAK
+- 4:00 PM - Arrive MAD (2h layover)
+- 6:00 PM - Depart MAD (IB1852)
+- 7:15 PM - Arrive BCN (IB0421)
+- Total: 5h 15m
 
 **Flight 4: Barcelona → SEA (Apr 21)**
-12:50 PM BCN → 3:45 PM PHL (AA 743) → 9:52 PM SEA (AS 443)
-18h 2m total
+- 12:50 PM - Depart BCN
+- 3:45 PM - Arrive PHL (3h 2m layover)
+- 6:47 PM - Depart PHL (AA 743)
+- 9:52 PM - Arrive SEA (AS 443)
+- Total: 18h 2m
+
+---
+
+## Accommodations
+
+**Apr 12-14: Marrakesh Riad**
+[Link TBD]
+
+**Apr 14-16: Desert Tour**
+[3-Day Marrakech to Merzouga Desert Adventure](https://www.getyourguide.com/marrakesh-l208/marrakech-to-merzouga-3-day-desert-adventure-t482521/?ranking_uuid=64f995ca-1710-4909-a849-28e96fed6b8c&closeTabOnNavigationBack=true&utm_medium=sharing&utm_campaign=activity_details_desktop)
+
+**Apr 16-17: Airport Hotel**
+Near Marrakesh Airport
 
 ---
 
