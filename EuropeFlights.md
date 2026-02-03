@@ -41,9 +41,9 @@ Near Marrakesh Airport
 * Total: 5h 15m
 
 📆 April 21 ✈️ Flight 4: Barcelona → Seattle
-* ↗ 12:50 PM BCN, ↘ 3:45 PM PHL (3h 2m layover) • AA 743
-* ↗ 6:47 PM PHL, ↘ 9:52 PM SEA • AS 443
-* Total: 18h 2m
+* ↗ 12:50 PM BCN, ↘ 3:45 PM PHL (2h 23m layover) • AA 743 • 787 (widebody)
+* ↗ 6:08 PM PHL, ↘ 9:23 PM SEA • AA 2763 • 787 (widebody)
+* Total: 17h 33m
 * V+C are on the BCN > PHL leg
 
 ---
