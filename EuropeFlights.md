@@ -13,6 +13,8 @@
 
 ## Itinerary
 
+**Vincent and Constance's itinerary:** Land Marrakesh Sun Apr 12 → Riad (Apr 12-14) → Desert Tour (Apr 14-16) → Airport Hotel (Apr 16-17) → AT 402/960 to Barcelona (Apr 17)
+
 📆 April 11-12 ✈️ Flight 1: Seattle → Barcelona
 * ↗ 8:00 AM SEA, ↘ 3:54 PM YYZ (3h 36m layover) • AC 542 • A220-300
 * ↗ 7:30 PM YYZ, ↘ 9:20 AM+1 BCN • AC 820 • 777-300ER (widebody, overnight)
