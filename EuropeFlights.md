@@ -62,8 +62,13 @@ Near Marrakesh Airport
 *\* Eligible for Capital One Venture X $300 travel credit (bookable on C1 Travel Portal)*
 
 ## Vincent and Constance's Itinerary
+
 ✈️ Land Marrakesh Sun Apr 12
+
 🏨 Riad (Apr 12-14)
+
 🏜️ Desert Tour (Apr 14-16)
+
 🛏️ Airport Hotel (Apr 16-17)
+
 ✈️ AT 402/960 to Barcelona (Apr 17)
