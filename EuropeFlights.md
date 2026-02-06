@@ -2,7 +2,7 @@
 *April 11-21, 2025*
 
 ## Quick Booking Guide
-1. **Multi-city (Google Flights):** SEA → BCN + BCN → SEA - $538.13 - [Book here](https://www.google.com/travel/flights/s/4YhkvmxotSyCpZQG9)
+1. **Multi-city (Google Flights):** SEA → BCN + BCN → SEA - $538.13 - [Book here](https://kay.ac/gfl3sv)
 2. **Ryanair:** STN → RAK - $69.80
 3. **BA Avios:** RAK → BCN - 10k C1 points + $50
    * Transfer C1 points to your British Airways Avios account, and search for RAK → BCN on April 17
