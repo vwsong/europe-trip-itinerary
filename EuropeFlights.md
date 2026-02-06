@@ -72,3 +72,5 @@ Near Marrakesh Airport
 🛏️ Airport Hotel • Apr 16-17
 
 ✈️ Flight to Barcelona • ↗ 10:40AM **RAK** ↘ 7:10 PM **BCN** (4:40hr layover **CMN**) • Apr 17
+
+✈️ Flight to Seattle • ↗ 12:50PM **BCN** ↘ 9:23 PM **SEA** (2:23hr layover **PHL**) • Apr 21
