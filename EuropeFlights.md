@@ -48,16 +48,18 @@ Near Marrakesh Airport
 **Flights**
 - Multi-city: $538.13
 - Ryanair: $63.04 (basic + carry-on)
-- Royal Air Maroc: $148
+- Royal Air Maroc*: $148
 - Flights total: $749.17
 
 **Lodging & Experiences**
-- Marrakesh Riad: $150
+- Marrakesh Riad*: $150
 - Desert Tour: $261
-- Airport Hotel: $75
+- Airport Hotel*: $75
 - Lodging total: $486
 
 **Total: $1,235.17**
+
+*\* Eligible for Capital One Venture X $300 travel credit (bookable on C1 Travel Portal)*
 
 ## Baggage
 - Air Canada: 1 carry-on + 1 personal item free, checked bag fees vary
