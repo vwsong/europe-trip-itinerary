@@ -2,7 +2,7 @@
 *April 11-21, 2025*
 
 ## Quick Booking Guide
-1. **Multi-city (Google Flights):** SEA → LHR + BCN → SEA - $564 - [Book here](https://www.google.com/travel/flights/s/4YhkvmxotSyCpZQG9)
+1. **Multi-city (Google Flights):** SEA → BCN + BCN → SEA - $614 - [Book here](https://www.google.com/travel/flights/s/4YhkvmxotSyCpZQG9)
 2. **Ryanair:** STN → RAK - $69.80
 3. **BA Avios:** RAK → BCN - 10k C1 points + $50
    * Transfer C1 points to your British Airways Avios account, and search for RAK → BCN on April 17
@@ -10,16 +10,14 @@
 5. **Desert Tour:** Apr 14-16 - [GetYourGuide](https://www.getyourguide.com/marrakesh-l208/marrakech-to-merzouga-3-day-desert-adventure-t482521/)
 6. **Airport Hotel:** Apr 16-17 - [Link TBD]
 
-⚠️ Note: 6.5h to transfer Heathrow → Stansted between flights 1 & 2
-
 ---
 
 ## Itinerary
 
-📆 April 11-12 ✈️ Flight 1: Seattle → London
-* ↗ 11:16 AM SEA, ↘ 5:46 PM ORD (1h 19m layover) • AA2775
-* ↗ 7:05 PM ORD, ↘ 9:05 AM+1 LHR • BA 298
-* Total: 13h 49m
+📆 April 11-12 ✈️ Flight 1: Seattle → Barcelona
+* ↗ 8:00 AM SEA, ↘ 3:54 PM YYZ (3h 36m layover) • AC 542 • A220-300
+* ↗ 7:30 PM YYZ, ↘ 9:20 AM+1 BCN • AC 820 • 777-300ER (widebody, overnight)
+* Total: 16h 20m
 
 📆 April 12 ✈️ Flight 2: London → Marrakesh 
 * ↗ 3:35 PM STN, ↘ 7:15 PM RAK • Ryanair RK 7870
@@ -41,20 +39,19 @@ Near Marrakesh Airport
 * Total: 5h 15m
 
 📆 April 21 ✈️ Flight 4: Barcelona → Seattle
-* ↗ 12:50 PM BCN, ↘ 3:45 PM PHL (2h 23m layover) • AA 743 • 787 (widebody)
-* ↗ 6:08 PM PHL, ↘ 9:23 PM SEA • AA 2763 • 787 (widebody)
-* Total: 17h 33m
-* V+C are on the BCN > PHL leg
+* ↗ 1:15 PM BCN, ↘ 4:00 PM YYZ (3h 30m layover) • AC 821 • 777-300ER (widebody)
+* ↗ 7:30 PM YYZ, ↘ 9:53 PM SEA • AC 543 • A220-300
+* Total: 17h 38m
 
 ---
 
 ## Costs
 
 **Flights**
-- Multi-city: $564
+- Multi-city: $614
 - Ryanair: $69.80
 - Points flight: 10k C1 pts + $50
-- Flights total: $683.80 + 10k points
+- Flights total: $733.80 + 10k points
 
 **Lodging & Experiences**
 - Marrakesh Riad: $150
@@ -62,9 +59,8 @@ Near Marrakesh Airport
 - Airport Hotel: $75
 - Lodging total: $486
 
-**Total: $1,169.80 + 10k points**
+**Total: $1,219.80 + 10k points**
 
 ## Baggage
-- SEA-LHR: 1 carry-on free, 1st bag $75
-- BCN-SEA: 1 carry-on free, bag fees vary
+- Air Canada: 1 carry-on + 1 personal item free, checked bag fees vary
 - Ryanair: Check at booking
