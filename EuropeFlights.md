@@ -63,12 +63,12 @@ Near Marrakesh Airport
 
 ## Vincent and Constance's Itinerary
 
-✈️ Land Marrakesh Sun Apr 12
+✈️ Land in Marrakesh • ↗ 3:35PM STN ↘ 7:15 PM RAK • Sun Apr 12
 
-🏨 Riad (Apr 12-14)
+🏨 Riad Stay • Apr 12-14
 
-🏜️ Desert Tour (Apr 14-16)
+🏜️ Desert Tour • Apr 14-16
 
-🛏️ Airport Hotel (Apr 16-17)
+🛏️ Airport Hotel • Apr 16-17
 
-✈️ AT 402/960 to Barcelona (Apr 17)
+✈️ AT 402/960 to Barcelona • ↗ 10:40AM RAK ↘ 7:10 PM BCN (4:40hr layover CMN) • Apr 17
