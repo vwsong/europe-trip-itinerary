@@ -2,7 +2,7 @@
 *April 11-21, 2025*
 
 ## Quick Booking Guide
-1. **Multi-city (Google Flights):** SEA → BCN + BCN → SEA - $614 - [Book here](https://www.google.com/travel/flights/s/4YhkvmxotSyCpZQG9)
+1. **Multi-city (Google Flights):** SEA → BCN + BCN → SEA - $538.13 - [Book here](https://www.google.com/travel/flights/s/4YhkvmxotSyCpZQG9)
 2. **Ryanair:** STN → RAK - $69.80
 3. **BA Avios:** RAK → BCN - 10k C1 points + $50
    * Transfer C1 points to your British Airways Avios account, and search for RAK → BCN on April 17
@@ -48,10 +48,10 @@ Near Marrakesh Airport
 ## Costs
 
 **Flights**
-- Multi-city: $614
+- Multi-city: $538.13
 - Ryanair: $69.80
 - Points flight: 10k C1 pts + $50
-- Flights total: $733.80 + 10k points
+- Flights total: $657.93 + 10k points
 
 **Lodging & Experiences**
 - Marrakesh Riad: $150
@@ -59,7 +59,7 @@ Near Marrakesh Airport
 - Airport Hotel: $75
 - Lodging total: $486
 
-**Total: $1,219.80 + 10k points**
+**Total: $1,143.93 + 10k points**
 
 ## Baggage
 - Air Canada: 1 carry-on + 1 personal item free, checked bag fees vary
